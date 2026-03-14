@@ -66,3 +66,4 @@ Login and verify that the repository has been successfully restored.
 Conclusion
 
 This project demonstrates a simple backup and recovery system for Gitea using Docker and Amazon S3. The solution ensures that repository data can be recovered quickly in case of accidental deletion or system failure.
+
